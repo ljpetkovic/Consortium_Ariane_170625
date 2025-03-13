@@ -4,5 +4,5 @@ Séminaire doctoral de l'équipe-projet ObTIC (Observatoire des textes, des idé
 
     SCAI, salle du conseil, 13/03/2025, 10h-12h
 
-    en visio : https://cnrs.zoom.us/j/99717750875?pwd=tJZTsISMqk9NHNaaLIpJKZKa24wHke.1
+* en visio : <a href="https://cnrs.zoom.us/j/99717750875?pwd=tJZTsISMqk9NHNaaLIpJKZKa24wHke.1">`https://cnrs.zoom.us/j/99717750875?pwd=tJZTsISMqk9NHNaaLIpJKZKa24wHke.1`</a>
 
