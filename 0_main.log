@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.10)  13 MAR 2025 10:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.10)  13 MAR 2025 11:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2774,10 +2774,6 @@ LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
 File: pic/arthropathies_tabetiques.png Graphic file (type bmp)
 <pic/arthropathies_tabetiques.png>
 
-Overfull \vbox (0.60806pt too high) detected at line 400
- []
-
-
 Overfull \hbox (54.62706pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2868,6 +2864,6 @@ Here is how much of TeX's memory you used:
  64579 multiletter control sequences out of 15000+600000
  545362 words of font info for 178 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,20n,122p,1891b,5343s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,20n,122p,1891b,5383s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 0_main.pdf (13 pages).
