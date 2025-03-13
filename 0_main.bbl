@@ -17,7 +17,7 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
-  \entry{camargo2024}{article}{}
+  \entry{camargo2023}{article}{}
     \name{author}{7}{}{%
       {{hash=CCHF}{%
          family={Camargo},
@@ -71,7 +71,7 @@
     \strng{fullhash}{CCHFCLCNYEEMFPWOTHAG1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{2024}
+    \field{labelyear}{2023}
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
@@ -80,7 +80,7 @@
     \field{title}{Jean-{M}artin {C}harcot: the polymath}
     \field{volume}{81}
     \field{journaltitle}{Arquivos de Neuro-psiquiatria}
-    \field{year}{2024}
+    \field{year}{2023}
   \endentry
 
   \entry{cram2016terminology}{inproceedings}{}
