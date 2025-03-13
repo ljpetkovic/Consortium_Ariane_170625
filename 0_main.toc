@@ -1,0 +1,4 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{Contributions principales de Charcot}{2}{0}{1}
+\beamer@sectionintoc {2}{Approches comparées}{4}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{10}{0}{3}

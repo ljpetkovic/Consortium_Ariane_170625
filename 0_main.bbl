@@ -1,0 +1,223 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{camargo2024}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CCHF}{%
+         family={Camargo},
+         familyi={C\bibinitperiod},
+         given={Carlos Henrique\bibnamedelima Ferreira},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Coutinho},
+         familyi={C\bibinitperiod},
+         given={L{\'e}o},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CNY}{%
+         family={Correa\bibnamedelima Neto},
+         familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Ylmar},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=EE}{%
+         family={Engelhardt},
+         familyi={E\bibinitperiod},
+         given={Eliasz},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MFP}{%
+         family={Maranh{\~a}o\bibnamedelima Filho},
+         familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Pericles},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WO}{%
+         family={Walusinski},
+         familyi={W\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=THAG}{%
+         family={Teive},
+         familyi={T\bibinitperiod},
+         given={H{\'e}lio Afonso\bibnamedelima Ghizoni},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SciELO Brasil}%
+    }
+    \strng{namehash}{CCHF+1}
+    \strng{fullhash}{CCHFCLCNYEEMFPWOTHAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{note}{\url{https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0043-1775984.pdf}}
+    \field{pages}{1098\bibrangedash 1111}
+    \field{title}{Jean-{M}artin {C}harcot: the polymath}
+    \field{volume}{81}
+    \field{journaltitle}{Arquivos de Neuro-psiquiatria}
+    \field{year}{2024}
+  \endentry
+
+  \entry{cram2016terminology}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=CD}{%
+         family={Cram},
+         familyi={C\bibinitperiod},
+         given={Damien},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Daille},
+         familyi={D\bibinitperiod},
+         given={B{\'e}atrice},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CDDB1}
+    \strng{fullhash}{CDDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{Proceedings of ACL-2016 system demonstrations}
+    \field{note}{\url{https://aclanthology.org/P16-4003.pdf}}
+    \field{pages}{13\bibrangedash 18}
+    \field{title}{Terminology {E}xtraction with {T}erm {V}ariant {D}etection}
+    \field{year}{2016}
+  \endentry
+
+  \entry{robertson1976relevance}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RSE}{%
+         family={Robertson},
+         familyi={R\bibinitperiod},
+         given={Stephen\bibnamedelima E},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=JKS}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={K\bibnamedelima Sparck},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{RSEJKS1}
+    \strng{fullhash}{RSEJKS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+  \field{note}{\url{https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.4630270302?casa_token=TfyVkMGkDQsAAAAA:TCuXWzGHjo31RdxGR9jECRG2rZzqv0K3GOzHF7yAa2NfxtDFqxe-MmSHMC6e8OFiFxI4sLj2aW6OyDk}}
+    \field{number}{3}
+    \field{pages}{129\bibrangedash 146}
+    \field{title}{Relevance {W}eighting of {S}earch {T}erms}
+    \field{volume}{27}
+    \field{journaltitle}{Journal of the American Society for Information
+  science}
+    \field{year}{1976}
+  \endentry
+
+  \entry{schopf2022}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ST}{%
+         family={Schopf},
+         familyi={S\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Klimek},
+         familyi={K\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Matthes},
+         familyi={M\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {SCITEPRESS -- Science}%
+      {Technology Publications}%
+    }
+    \strng{namehash}{ST+1}
+    \strng{fullhash}{STKSMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Proceedings of the 14\textsuperscript{th} International
+  Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge
+  Management}
+    \verb{doi}
+    \verb 10.5220/0011546600003335
+    \endverb
+    \field{note}{\url{http://dx.doi.org/10.5220/0011546600003335}}
+    \field{title}{Pattern{R}ank: {L}everaging {P}retrained {L}anguage {M}odels
+  and {P}art of {S}peech for {U}nsupervised {K}eyphrase {E}xtraction}
+    \verb{url}
+    \verb http://dx.doi.org/10.5220/0011546600003335
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{walusinski}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WO}{%
+         family={Walusinski},
+         familyi={W\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WO1}
+    \strng{fullhash}{WO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2025}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{howpublished}{\url{http://ishn.org/}}
+    \field{note}{Consulté le \today}
+    \field{title}{Jean-Martin Charcot’s Birth Bicentennia}
+    \field{year}{2025}
+  \endentry
+\enddatalist
+\endinput
