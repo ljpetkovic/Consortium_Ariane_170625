@@ -7,3 +7,4 @@ Séminaire doctoral de l'équipe-projet ObTIC (Observatoire des textes, des idé
 * en visio : <a href="https://cnrs.zoom.us/j/99717750875?pwd=tJZTsISMqk9NHNaaLIpJKZKa24wHke.1">`https://cnrs.zoom.us/j/99717750875?pwd=tJZTsISMqk9NHNaaLIpJKZKa24wHke.1`</a>
 
 # Consortium_Ariane_170625
+# Consortium_Ariane_170625
