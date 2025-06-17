@@ -1,0 +1,38 @@
+\begin{frame}{Conclusion et perspectives}
+	\begin{enumerate}
+		\item 	\textit{PatternRank} : la méthode la plus robuste
+		\begin{itemize}
+			\item capture la sémantique jusqu'aux pentagrammes
+			\begin{itemize}
+				%				\item quadrigrammes : \textit{sclérose cérébrale tubéreuse hypertrophique} 
+				\item \textit{méningite syphilitique hémorragique fibrineuse aiguë}
+			\end{itemize}
+			\item produit des scores de pertinence plus élevés
+			\begin{itemize}
+				\item exception : scores BM25 (\textit{SLA}, \textit{embarras parole}) et TF-IDF (\textit{hypnose})
+			\end{itemize}
+		\end{itemize}
+		
+		\item 	les termes les plus impactants dans les corpus :
+		\begin{itemize}
+			\item Charcot : \textit{hystérie}, \textit{astasie-abasie}, \textit{embarras parole}
+			\item Autres :  \textit{hypnose}*, \textit{syndrome de Tourette}, \textit{arthropathies tabétiques}
+		\end{itemize}
+
+		%		\item Absence des scores pour les termes comme \textit{SEP} et SLA :
+		%		\begin{itemize}                                        
+			%			\item solution : chercher leurs symptomes ou leurs descriptions :
+			%			\begin{itemize}
+				%				\item  \textit{amyotrophie spinale progressive}, \textit{secousses nystagmiques}$\dots$
+				%			\end{itemize}
+			%		\end{itemize}
+	\end{enumerate}
+	
+	\begin{alertblock}{\vspace*{-0.6mm}}
+		\centering
+		Les résultats sont alignés avec les faits historiques.
+	\end{alertblock}
+	
+	\bigskip
+	Recherches futures : tester les \textit{LLM} ou les \textit{LCM} (angl. \textit{Large Concept Models}) ?
+\end{frame}

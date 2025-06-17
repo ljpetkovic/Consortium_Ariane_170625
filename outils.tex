@@ -1,0 +1,27 @@
+\begin{frame}{Approches comparées}
+%	Méthodes classiques \textit{vs.} celles de l'état de l'art.
+	\begin{enumerate}
+		\item \textcolor{deepblue}{\textbf{\texttt{TermSuite}}} \footnote{\url{https://github.com/ljpetkovic/Charcot_TermSuite}} \citep{cram2016terminology}
+		\begin{itemize}
+			\item linguistique, à base de règles $\rightarrow$ TD-IDF
+		\end{itemize} 
+		\item \textcolor{deepblue}{\textbf{TF-IDF, BM25}}\footnote{\url{https://github.com/ljpetkovic/Charcot_circulations}} \citep{robertson1976relevance}  
+		\begin{itemize}
+			\item statistique
+		\end{itemize}
+		\item \textcolor{deepblue}{\textbf{\textit{PatternRank}}} \citep{schopf2022}\footnote{\url{https://github.com/ljpetkovic/Seminaire_doctoral_ObTIC_130325/blob/main/0_main.pdf}}
+		\begin{itemize}
+			\item apprentissage profond
+			\item \texttt{keybert} + \texttt{keyphrase-vectorizers}
+			\item utilisation des étiquettes POS
+		\end{itemize} 
+	\end{enumerate}
+	
+	\begin{block}{\vspace*{-0.6mm}}
+		Traitements effectués en local (1,2) et \textit{via} la plateforme MeSU\footnote{\url{https://sacado.sorbonne-universite.fr/fr/plateforme-mesu/}} (3).
+		\begin{itemize}
+			\item appliqués à tout le corpus
+		\end{itemize}
+	\end{block}
+	
+\end{frame}

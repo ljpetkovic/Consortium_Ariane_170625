@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated as
-% required.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
 %
 \begingroup
 \makeatletter
@@ -16,208 +16,810 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}
-  \entry{camargo2023}{article}{}
-    \name{author}{7}{}{%
-      {{hash=CCHF}{%
-         family={Camargo},
-         familyi={C\bibinitperiod},
-         given={Carlos Henrique\bibnamedelima Ferreira},
-         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
-  F\bibinitperiod},
-      }}%
-      {{hash=CL}{%
-         family={Coutinho},
-         familyi={C\bibinitperiod},
-         given={L{\'e}o},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=CNY}{%
-         family={Correa\bibnamedelima Neto},
-         familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod},
-         given={Ylmar},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=EE}{%
-         family={Engelhardt},
-         familyi={E\bibinitperiod},
-         given={Eliasz},
-         giveni={E\bibinitperiod},
-      }}%
-      {{hash=MFP}{%
-         family={Maranh{\~a}o\bibnamedelima Filho},
-         familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
-         given={Pericles},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=WO}{%
-         family={Walusinski},
-         familyi={W\bibinitperiod},
-         given={Olivier},
-         giveni={O\bibinitperiod},
-      }}%
-      {{hash=THAG}{%
-         family={Teive},
-         familyi={T\bibinitperiod},
-         given={H{\'e}lio Afonso\bibnamedelima Ghizoni},
-         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
-  G\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {SciELO Brasil}%
-    }
-    \strng{namehash}{CCHF+1}
-    \strng{fullhash}{CCHFCLCNYEEMFPWOTHAG1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2023}
-    \field{labeldatesource}{}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-  \field{note}{\url{https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0043-1775984.pdf}}
-    \field{pages}{1098\bibrangedash 1111}
-    \field{title}{Jean-{M}artin {C}harcot: the polymath}
-    \field{volume}{81}
-    \field{journaltitle}{Arquivos de Neuro-psiquiatria}
-    \field{year}{2023}
-  \endentry
 
-  \entry{cram2016terminology}{inproceedings}{}
-    \name{author}{2}{}{%
-      {{hash=CD}{%
-         family={Cram},
-         familyi={C\bibinitperiod},
-         given={Damien},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=DB}{%
-         family={Daille},
-         familyi={D\bibinitperiod},
-         given={B{\'e}atrice},
-         giveni={B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{CDDB1}
-    \strng{fullhash}{CDDB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2016}
-    \field{labeldatesource}{}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \field{booktitle}{Proceedings of ACL-2016 system demonstrations}
-    \field{note}{\url{https://aclanthology.org/P16-4003.pdf}}
-    \field{pages}{13\bibrangedash 18}
-    \field{title}{Terminology {E}xtraction with {T}erm {V}ariant {D}etection}
-    \field{year}{2016}
-  \endentry
-
-  \entry{robertson1976relevance}{article}{}
-    \name{author}{2}{}{%
-      {{hash=RSE}{%
-         family={Robertson},
-         familyi={R\bibinitperiod},
-         given={Stephen\bibnamedelima E},
-         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-      {{hash=JKS}{%
-         family={Jones},
-         familyi={J\bibinitperiod},
-         given={K\bibnamedelima Sparck},
-         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Wiley Online Library}%
-    }
-    \strng{namehash}{RSEJKS1}
-    \strng{fullhash}{RSEJKS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1976}
-    \field{labeldatesource}{}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
-  \field{note}{\url{https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.4630270302?casa_token=TfyVkMGkDQsAAAAA:TCuXWzGHjo31RdxGR9jECRG2rZzqv0K3GOzHF7yAa2NfxtDFqxe-MmSHMC6e8OFiFxI4sLj2aW6OyDk}}
-    \field{number}{3}
-    \field{pages}{129\bibrangedash 146}
-    \field{title}{Relevance {W}eighting of {S}earch {T}erms}
-    \field{volume}{27}
-    \field{journaltitle}{Journal of the American Society for Information
-  science}
-    \field{year}{1976}
-  \endentry
-
-  \entry{schopf2022}{inproceedings}{}
-    \name{author}{3}{}{%
-      {{hash=ST}{%
-         family={Schopf},
-         familyi={S\bibinitperiod},
-         given={Tim},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=KS}{%
-         family={Klimek},
-         familyi={K\bibinitperiod},
-         given={Simon},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=MF}{%
-         family={Matthes},
-         familyi={M\bibinitperiod},
-         given={Florian},
-         giveni={F\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{2}{%
-      {SCITEPRESS -- Science}%
-      {Technology Publications}%
-    }
-    \strng{namehash}{ST+1}
-    \strng{fullhash}{STKSMF1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2022}
-    \field{labeldatesource}{}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \field{booktitle}{Proceedings of the 14\textsuperscript{th} International
-  Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge
-  Management}
-    \verb{doi}
-    \verb 10.5220/0011546600003335
-    \endverb
-    \field{note}{\url{http://dx.doi.org/10.5220/0011546600003335}}
-    \field{title}{Pattern{R}ank: {L}everaging {P}retrained {L}anguage {M}odels
-  and {P}art of {S}peech for {U}nsupervised {K}eyphrase {E}xtraction}
-    \verb{url}
-    \verb http://dx.doi.org/10.5220/0011546600003335
-    \endverb
-    \field{year}{2022}
-  \endentry
-
-  \entry{walusinski}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=WO}{%
-         family={Walusinski},
-         familyi={W\bibinitperiod},
-         given={Olivier},
-         giveni={O\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{WO1}
-    \strng{fullhash}{WO1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2025}
-    \field{labeldatesource}{}
-    \field{sortinit}{W}
-    \field{sortinithash}{W}
-    \field{howpublished}{\url{http://ishn.org/}}
-    \field{note}{Consulté le \today}
-    \field{title}{Jean-Martin Charcot’s Birth Bicentennia}
-    \field{year}{2025}
-  \endentry
-\enddatalist
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{abdallah2025rankingdom}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=4816de6e4bbf12ce0fca70c02b712e0e}{%
+           family={Abdallah},
+           familyi={A\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8fd4c58eda898985b0eb0d5f5907fdaf}{%
+           family={Markhoff},
+           familyi={M\bibinitperiod},
+           given={Béatrice},
+           giveni={B\bibinitperiod}}}%
+        {{hash=574670fef390921eb91f8b63d44963ac}{%
+           family={Ovide},
+           familyi={O\bibinitperiod},
+           given={Manon},
+           giveni={M\bibinitperiod}}}%
+        {{hash=45e7b76c8911870fb7d1ff23816c3504}{%
+           family={Parkin},
+           familyi={P\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod}}}%
+        {{hash=84e93fbd8947f953233892f4b4f21bf7}{%
+           family={Soulet},
+           familyi={S\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{805b344520df96cf5c81e05e97b44006}
+      \strng{fullhash}{c47ea411285ec0d22a818c5bb8d0cdf0}
+      \strng{bibnamehash}{c47ea411285ec0d22a818c5bb8d0cdf0}
+      \strng{authorbibnamehash}{c47ea411285ec0d22a818c5bb8d0cdf0}
+      \strng{authornamehash}{805b344520df96cf5c81e05e97b44006}
+      \strng{authorfullhash}{c47ea411285ec0d22a818c5bb8d0cdf0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Extraction et Gestion des Connaissances 2025}
+      \field{note}{\url{https://hal-hceres.archives-ouvertes.fr/LIBDTLN/hal-04977222v1}}
+      \field{title}{Rankingdom: une architecture coopérative pour l'analyse à la demande de Wikidata}
+      \field{year}{2025}
+    \endentry
+    \entry{bogousslavsky2014mysteries}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f557e7e901a3d83f69a2c89226748ac1}{%
+           family={Bogousslavsky},
+           familyi={B\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sociedad Española de Neurología}%
+      }
+      \strng{namehash}{f557e7e901a3d83f69a2c89226748ac1}
+      \strng{fullhash}{f557e7e901a3d83f69a2c89226748ac1}
+      \strng{bibnamehash}{f557e7e901a3d83f69a2c89226748ac1}
+      \strng{authorbibnamehash}{f557e7e901a3d83f69a2c89226748ac1}
+      \strng{authornamehash}{f557e7e901a3d83f69a2c89226748ac1}
+      \strng{authorfullhash}{f557e7e901a3d83f69a2c89226748ac1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurosciences and History}
+      \field{note}{\url{https://nah.sen.es/vmfiles/abstract/NAHV2N2201454_73EN.pdf}}
+      \field{number}{2}
+      \field{title}{The {M}ysteries of {H}ysteria}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{\ 54\bibrangedash 73}
+      \range{pages}{-1}
+    \endentry
+    \entry{broussolle2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=89910d4c7ecd56fe6807687b308025fd}{%
+           family={Broussolle},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=facae0a5d1500d3eaa07cac477288b50}{%
+           family={Poirier},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=54861289fc3e2984a443e707d8118460}{%
+           family={Clarac},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4f2a35b1de7988f1c4b1bca097c264dc}{%
+           family={Barbara},
+           familyi={B\bibinitperiod},
+           given={J.-G.},
+           giveni={J\bibinithyphendelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a16b55275e01e00513a5e5ff4138267}
+      \strng{fullhash}{05900eba8100588cf636a6b9b85a511c}
+      \strng{bibnamehash}{05900eba8100588cf636a6b9b85a511c}
+      \strng{authorbibnamehash}{05900eba8100588cf636a6b9b85a511c}
+      \strng{authornamehash}{6a16b55275e01e00513a5e5ff4138267}
+      \strng{authorfullhash}{05900eba8100588cf636a6b9b85a511c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue Neurologique}
+      \field{note}{\url{https://doi.org/10.1016/j.neurol.2011.10.006}}
+      \field{number}{4}
+      \field{title}{Figures and institutions of the neurological sciences in {P}aris from 1800 to 1950. {P}art {III}: {N}eurology}
+      \field{volume}{168}
+      \field{year}{2012}
+      \field{pages}{301\bibrangedash 320}
+      \range{pages}{20}
+    \endentry
+    \entry{camargo2023}{article}{}
+      \name{author}{7}{}{%
+        {{hash=c004feb3dae5a740b912d5e754b954f9}{%
+           family={Camargo},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelimb Henrique\bibnamedelima Ferreira},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8f0b37d804aeed4a8bcdacf9c80acd36}{%
+           family={Coutinho},
+           familyi={C\bibinitperiod},
+           given={Léo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5a2f2ecec5d3f13388342c44ae3feab6}{%
+           family={Correa\bibnamedelima Neto},
+           familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Ylmar},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c6a44a3f4a86126fa7acf6fa4fc12884}{%
+           family={Engelhardt},
+           familyi={E\bibinitperiod},
+           given={Eliasz},
+           giveni={E\bibinitperiod}}}%
+        {{hash=620a081070ddc3a7a40fdcbcd79d67fb}{%
+           family={Maranhão\bibnamedelima Filho},
+           familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Pericles},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0322eedeedeaa0156a502ed2f4ae66fc}{%
+           family={Walusinski},
+           familyi={W\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=c1e7ccd99535819d5003e0bf787d63ad}{%
+           family={Teive},
+           familyi={T\bibinitperiod},
+           given={Hélio\bibnamedelimb Afonso\bibnamedelima Ghizoni},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciELO Brasil}%
+      }
+      \strng{namehash}{977613256a592358cb9e7dca2fd69999}
+      \strng{fullhash}{c98a2cb938d0c744778a14211508749d}
+      \strng{bibnamehash}{c98a2cb938d0c744778a14211508749d}
+      \strng{authorbibnamehash}{c98a2cb938d0c744778a14211508749d}
+      \strng{authornamehash}{977613256a592358cb9e7dca2fd69999}
+      \strng{authorfullhash}{c98a2cb938d0c744778a14211508749d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arquivos de Neuro-psiquiatria}
+      \field{note}{\url{https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0043-1775984.pdf}}
+      \field{title}{Jean-{M}artin {C}harcot: the polymath}
+      \field{volume}{81}
+      \field{year}{2023}
+      \field{pages}{1098\bibrangedash 1111}
+      \range{pages}{14}
+    \endentry
+    \entry{campanini2022circulation}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{8}{}{%
+        {{hash=dd1b24c6930c4a71f9472ec30cc05034}{%
+           family={Campanini},
+           familyi={C\bibinitperiod},
+           given={Magda},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ff8a351ed5a8ef8fdc0ba532d8be2a85}{%
+           family={Parra},
+           familyi={P\bibinitperiod},
+           given={Marine},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b20db3c6fd755105ab48e3db356b61b1}{%
+           family={Primot},
+           familyi={P\bibinitperiod},
+           given={Carole},
+           giveni={C\bibinitperiod}}}%
+        {{hash=97ca35dae416ce02cc9b373c501c7b74}{%
+           family={Réach-Ngô},
+           familyi={R\bibinithyphendelim N\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e68d606b8c30b0e652e536c15a7d6170}{%
+           family={Saignol},
+           familyi={S\bibinitperiod},
+           given={Côme},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fdfcf06abeeb623c2b6c08eea279e86c}{%
+           family={Speyer},
+           familyi={S\bibinitperiod},
+           given={Miriam},
+           giveni={M\bibinitperiod}}}%
+        {{hash=603045f61af1f328f1940ccd4fbc7ae1}{%
+           family={Vervent-Giraud},
+           familyi={V\bibinithyphendelim G\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3a681bbbf3e5400be666826f19cd390e}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {[Levallois-Perret]: Association Cornucopia}%
+      }
+      \strng{namehash}{7f5927c9dd83fbb377d2bb775468d84b}
+      \strng{fullhash}{32a0d95a989e1aff3538057e105a3204}
+      \strng{bibnamehash}{32a0d95a989e1aff3538057e105a3204}
+      \strng{authorbibnamehash}{32a0d95a989e1aff3538057e105a3204}
+      \strng{authornamehash}{7f5927c9dd83fbb377d2bb775468d84b}
+      \strng{authorfullhash}{32a0d95a989e1aff3538057e105a3204}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LE VERGER}
+      \field{note}{\url{http://cornucopia16.com/blog/2022/05/01/bouquet-xxiii-circulation-des-ecrits-litteraires-de-la-premiere-modernite-humanites-numeriques-2/}}
+      \field{title}{Circulation des écrits littéraires de la Première Modernité \& Humanités numériques}
+      \field{year}{2022}
+    \endentry
+    \entry{charcot1892oeuvres}{book}{}
+      \name{author}{1}{}{%
+        {{hash=75c4d90d0b9d28e18e3d1c1e79eb1422}{%
+           family={Charcot},
+           familyi={C\bibinitperiod},
+           given={Jean\bibnamedelima Martin},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bureaux du progrès medical}%
+      }
+      \strng{namehash}{75c4d90d0b9d28e18e3d1c1e79eb1422}
+      \strng{fullhash}{75c4d90d0b9d28e18e3d1c1e79eb1422}
+      \strng{bibnamehash}{75c4d90d0b9d28e18e3d1c1e79eb1422}
+      \strng{authorbibnamehash}{75c4d90d0b9d28e18e3d1c1e79eb1422}
+      \strng{authornamehash}{75c4d90d0b9d28e18e3d1c1e79eb1422}
+      \strng{authorfullhash}{75c4d90d0b9d28e18e3d1c1e79eb1422}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://patrimoine.sorbonne-universite.fr/viewer/3468/?offset=1\#page=2&viewer=picture&o=&n=0&q=}}
+      \field{title}{Œuvres complètes de J. M. Charcot. Leçons sur les maladies du système nerveux.}
+      \field{volume}{1}
+      \field{year}{1892}
+    \endentry
+    \entry{cram2016terminology}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=93534e9c074a8584d388f26185c990d5}{%
+           family={Cram},
+           familyi={C\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b7c7b5fc34dbb31ebaa43631f27760e4}{%
+           family={Daille},
+           familyi={D\bibinitperiod},
+           given={Béatrice},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{80780c990a1f511af7b801592f2f9daa}
+      \strng{fullhash}{80780c990a1f511af7b801592f2f9daa}
+      \strng{bibnamehash}{80780c990a1f511af7b801592f2f9daa}
+      \strng{authorbibnamehash}{80780c990a1f511af7b801592f2f9daa}
+      \strng{authornamehash}{80780c990a1f511af7b801592f2f9daa}
+      \strng{authorfullhash}{80780c990a1f511af7b801592f2f9daa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of ACL-2016 system demonstrations}
+      \field{note}{\url{https://aclanthology.org/P16-4003.pdf}}
+      \field{title}{Terminology {E}xtraction with {T}erm {V}ariant {D}etection}
+      \field{year}{2016}
+      \field{pages}{13\bibrangedash 18}
+      \range{pages}{6}
+    \endentry
+    \entry{fedchenko2024recherche}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a32c9ff38fe6a2d42f305871d0aa606c}{%
+           family={Fedchenko},
+           familyi={F\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c2b71629bd6afcd6ff12ac5b53f5b5a5}{%
+           family={Nicolosi},
+           familyi={N\bibinitperiod},
+           given={Dario\bibnamedelima Maria},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3639cd88fedbc6fc98064d2512d2a276}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Humanistica}%
+      }
+      \strng{namehash}{8df8970cb3840880a078295ab9a02060}
+      \strng{fullhash}{2c85d68119d167f78983454af8cd2c56}
+      \strng{bibnamehash}{2c85d68119d167f78983454af8cd2c56}
+      \strng{authorbibnamehash}{2c85d68119d167f78983454af8cd2c56}
+      \strng{authornamehash}{8df8970cb3840880a078295ab9a02060}
+      \strng{authorfullhash}{2c85d68119d167f78983454af8cd2c56}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanités numériques}
+      \field{note}{\url{https://journals.openedition.org/revuehn/3940}}
+      \field{number}{9}
+      \field{title}{À la recherche des réseaux intertextuels: défis de la recherche littéraire à grande échelle}
+      \field{year}{2024}
+    \endentry
+    \entry{gabay2021katabase}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=7fe1ec35c644906499707ac25bc7780b}{%
+           family={Gabay},
+           familyi={G\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bfdee404a13dedf03861dbdea73ddfe5}{%
+           family={Petkovic},
+           familyi={P\bibinitperiod},
+           given={Ljudmila},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b6ad87ce5d6b45f75a393b5f1480fc6f}{%
+           family={Bartz},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f61d31c381a669bc6b0e1757b0237960}{%
+           family={Levenson},
+           familyi={L\bibinitperiod},
+           given={Matthias\bibnamedelima Gille},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=bd2fa8b6ae8d4ef15b3d297178241c4d}{%
+           family={Du\bibnamedelima Noyer},
+           familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Lucie\bibnamedelima Rondeau},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{19260dbbe635aee5f8a6812d16a87608}
+      \strng{fullhash}{76f97efef4833511e12a3bab9fb05f86}
+      \strng{bibnamehash}{76f97efef4833511e12a3bab9fb05f86}
+      \strng{authorbibnamehash}{76f97efef4833511e12a3bab9fb05f86}
+      \strng{authornamehash}{19260dbbe635aee5f8a6812d16a87608}
+      \strng{authorfullhash}{76f97efef4833511e12a3bab9fb05f86}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Humanistica 2021}
+      \field{note}{\url{https://hal.science/hal-03066108}}
+      \field{title}{Katabase: À la recherche des manuscrits vendus}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{joyeux2024greater}{article}{}
+      \name{author}{3}{}{%
+        {{hash=112621ffc82f00730b2aa58962b35aea}{%
+           family={Joyeux-Prunel},
+           familyi={J\bibinithyphendelim P\bibinitperiod},
+           given={Béatrice},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cdb1c03bb9d6caa067f6b73d1e116eb0}{%
+           family={Barras},
+           familyi={B\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4304e70fbf93e26367145c0bf1e7b41c}{%
+           family={Carboni},
+           familyi={C\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Institut za povijest umjetnosti}%
+      }
+      \strng{namehash}{f2345af0fa9b53b2ed6c691c00084d88}
+      \strng{fullhash}{60e715a9870f18b5bac471ab0e2c6da7}
+      \strng{bibnamehash}{60e715a9870f18b5bac471ab0e2c6da7}
+      \strng{authorbibnamehash}{60e715a9870f18b5bac471ab0e2c6da7}
+      \strng{authornamehash}{f2345af0fa9b53b2ed6c691c00084d88}
+      \strng{authorfullhash}{60e715a9870f18b5bac471ab0e2c6da7}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Život umjetnosti: časopis o modernoj i suvremenoj umjetnosti i arhitekturi}
+      \field{note}{\url{https://doi.org/10.31664/zu.2024.114.02}}
+      \field{number}{1}
+      \field{title}{Greater Aura? The 19\textsuperscript{th} and 20\textsuperscript{th} Century Circulation of Art Reproductions in the Press through a Digital and Historical Perspective}
+      \field{volume}{114}
+      \field{year}{2024}
+      \field{pages}{26\bibrangedash 49}
+      \range{pages}{24}
+    \endentry
+    \entry{landais2014frederic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2de99e4bfcd30ab0d9438c2d76871587}{%
+           family={Landais},
+           familyi={L\bibinitperiod},
+           given={Émilie},
+           giveni={É\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cairn}%
+      }
+      \strng{namehash}{2de99e4bfcd30ab0d9438c2d76871587}
+      \strng{fullhash}{2de99e4bfcd30ab0d9438c2d76871587}
+      \strng{bibnamehash}{2de99e4bfcd30ab0d9438c2d76871587}
+      \strng{authorbibnamehash}{2de99e4bfcd30ab0d9438c2d76871587}
+      \strng{authornamehash}{2de99e4bfcd30ab0d9438c2d76871587}
+      \strng{authorfullhash}{2de99e4bfcd30ab0d9438c2d76871587}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Questions de communication}
+      \field{note}{\url{https://doi.org/10.4000/questionsdecommunication.9367}}
+      \field{title}{‪\say{~{F}rédéric {D}arbellay, éd., \textit{{L}a circulation des savoirs. {I}nterdisciplinarité, concepts nomades, analogies, métaphores~}‪}: {B}erne, {P}. {L}ang, 2012, 245 pages}
+      \field{volume}{26}
+      \field{year}{2014}
+      \field{pages}{331\bibrangedash 333}
+      \range{pages}{3}
+    \endentry
+    \entry{milia2023}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=07718ec5537be5c06b905a68dc17f99a}{%
+           family={Milia},
+           familyi={M\bibinitperiod},
+           given={Matías},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{07718ec5537be5c06b905a68dc17f99a}
+      \strng{fullhash}{07718ec5537be5c06b905a68dc17f99a}
+      \strng{bibnamehash}{07718ec5537be5c06b905a68dc17f99a}
+      \strng{authorbibnamehash}{07718ec5537be5c06b905a68dc17f99a}
+      \strng{authornamehash}{07718ec5537be5c06b905a68dc17f99a}
+      \strng{authorfullhash}{07718ec5537be5c06b905a68dc17f99a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Routledge Handbook of Academic Knowledge Circulation}
+      \field{note}{\url{https://www.taylorfrancis.com/chapters/edit/10.4324/9781003290650-52/using-digital-text-based-approaches-study-knowledge-circulation-mat\%C3\%ADas-milia}}
+      \field{title}{Using Digital Text-Based Approaches to Study Knowledge Circulation}
+      \field{year}{2023}
+      \field{pages}{556\bibrangedash 574}
+      \range{pages}{19}
+    \endentry
+    \entry{omrane2011poids}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=7e602aaed091d7fa07a12490f283a5c5}{%
+           family={Omrane},
+           familyi={O\bibinitperiod},
+           given={Nouha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d4aea82229a043426523a7e39fe69968}{%
+           family={Nazarenko},
+           familyi={N\bibinitperiod},
+           given={Adeline},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f1171b573f1c3d905d5c32e90ada1bb3}{%
+           family={Szulman},
+           familyi={S\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9f03dfe505f80f73edda3a4d0f64e91}
+      \strng{fullhash}{09c8a8492db403c435318301102f76d8}
+      \strng{bibnamehash}{09c8a8492db403c435318301102f76d8}
+      \strng{authorbibnamehash}{09c8a8492db403c435318301102f76d8}
+      \strng{authornamehash}{b9f03dfe505f80f73edda3a4d0f64e91}
+      \strng{authorfullhash}{09c8a8492db403c435318301102f76d8}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{9\ieme{} conférence internationale de Terminologie et Intelligence Artificielle}
+      \field{note}{\url{https://hal.science/hal-00626843v4}}
+      \field{title}{Le poids des entités nommées dans le filtrage des termes d'un domaine}
+      \field{year}{2011}
+      \field{pages}{80\bibrangedash 86}
+      \range{pages}{7}
+    \endentry
+    \entry{petkovic2023circulation}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=bfdee404a13dedf03861dbdea73ddfe5}{%
+           family={Petkovic},
+           familyi={P\bibinitperiod},
+           given={Ljudmila},
+           giveni={L\bibinitperiod}}}%
+        {{hash=076c82c6c6c55015b947cf9356468818}{%
+           family={Alrahabi},
+           familyi={A\bibinitperiod},
+           given={Motasem},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3639cd88fedbc6fc98064d2512d2a276}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{02700c435acfb0de62716f93d72a93b3}
+      \strng{fullhash}{ccf60d52c6473ec2bd2960f1143b2123}
+      \strng{bibnamehash}{ccf60d52c6473ec2bd2960f1143b2123}
+      \strng{authorbibnamehash}{ccf60d52c6473ec2bd2960f1143b2123}
+      \strng{authornamehash}{02700c435acfb0de62716f93d72a93b3}
+      \strng{authorfullhash}{ccf60d52c6473ec2bd2960f1143b2123}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Humanistica 2023}
+      \field{note}{\url{https://hal.science/HUMANISTICA-2023/hal-04107099v1}}
+      \field{title}{Circulation du discours médical de Jean-Martin Charcot}
+      \field{year}{2023}
+    \endentry
+    \entry{riguet2018impact}{article}{}
+      \name{author}{1}{}{%
+        {{hash=78e058bf1ecb7f8df61ddd6708679a7c}{%
+           family={Riguet},
+           familyi={R\bibinitperiod},
+           given={Marine},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{78e058bf1ecb7f8df61ddd6708679a7c}
+      \strng{fullhash}{78e058bf1ecb7f8df61ddd6708679a7c}
+      \strng{bibnamehash}{78e058bf1ecb7f8df61ddd6708679a7c}
+      \strng{authorbibnamehash}{78e058bf1ecb7f8df61ddd6708679a7c}
+      \strng{authornamehash}{78e058bf1ecb7f8df61ddd6708679a7c}
+      \strng{authorfullhash}{78e058bf1ecb7f8df61ddd6708679a7c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Epistémocritique: Littérature et savoirs}
+      \field{note}{\url{https://hal.science/hal-01903871}}
+      \field{title}{L'impact de la physiologie dans la critique littéraire de la fin du {XIX}\textsuperscript{ème} siècle: l'exemple de {C}laude {B}ernard}
+      \field{year}{2018}
+    \endentry
+    \entry{robertson1976relevance}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c35334bf2da757f89a8ca82025f62cb9}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c3facec30b107d534055ca673450c1f8}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={K.\bibnamedelimi Sparck},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{5476dc7bb3f80ea72e6010babe838e1c}
+      \strng{fullhash}{5476dc7bb3f80ea72e6010babe838e1c}
+      \strng{bibnamehash}{5476dc7bb3f80ea72e6010babe838e1c}
+      \strng{authorbibnamehash}{5476dc7bb3f80ea72e6010babe838e1c}
+      \strng{authornamehash}{5476dc7bb3f80ea72e6010babe838e1c}
+      \strng{authorfullhash}{5476dc7bb3f80ea72e6010babe838e1c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Society for Information science}
+      \field{note}{\url{https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.4630270302?casa_token=TfyVkMGkDQsAAAAA:TCuXWzGHjo31RdxGR9jECRG2rZzqv0K3GOzHF7yAa2NfxtDFqxe-MmSHMC6e8OFiFxI4sLj2aW6OyDk}}
+      \field{number}{3}
+      \field{title}{Relevance {W}eighting of {S}earch {T}erms}
+      \field{volume}{27}
+      \field{year}{1976}
+      \field{pages}{129\bibrangedash 146}
+      \range{pages}{18}
+    \endentry
+    \entry{schopf2022}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=98e4ea8ef9d8c066717137dffb718634}{%
+           family={Schopf},
+           familyi={S\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3b7b71a6d3dbabe188597bbff0fcb810}{%
+           family={Klimek},
+           familyi={K\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=38a084c836fd0cc69afdd64930cf367c}{%
+           family={Matthes},
+           familyi={M\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {SCITEPRESS -- Science}%
+        {Technology Publications}%
+      }
+      \strng{namehash}{8eb60e909066aa00196f9dab5c3752b0}
+      \strng{fullhash}{d50ac7799d37fd01bad7b19e432051bd}
+      \strng{bibnamehash}{d50ac7799d37fd01bad7b19e432051bd}
+      \strng{authorbibnamehash}{d50ac7799d37fd01bad7b19e432051bd}
+      \strng{authornamehash}{8eb60e909066aa00196f9dab5c3752b0}
+      \strng{authorfullhash}{d50ac7799d37fd01bad7b19e432051bd}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 14\textsuperscript{th} International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management}
+      \field{note}{\url{http://dx.doi.org/10.5220/0011546600003335}}
+      \field{title}{Pattern{R}ank: {L}everaging {P}retrained {L}anguage {M}odels and {P}art of {S}peech for {U}nsupervised {K}eyphrase {E}xtraction}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.5220/0011546600003335
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.5220/0011546600003335
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.5220/0011546600003335
+      \endverb
+    \endentry
+    \entry{tasca2012women}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0f2df8c0865f424700e4a0a27adf4bd4}{%
+           family={Tasca},
+           familyi={T\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=574e9aae7f251c1258c6b424bcef93ff}{%
+           family={Rapetti},
+           familyi={R\bibinitperiod},
+           given={Mariangela},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c4276e803bdeafc4f1a80fe8934331e8}{%
+           family={Carta},
+           familyi={C\bibinitperiod},
+           given={Mauro\bibnamedelima Giovanni},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=50ce66b6393ea9969ab9daa0ae95083c}{%
+           family={Fadda},
+           familyi={F\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bentham Science Publishers}%
+      }
+      \strng{namehash}{2487b8aed9ad0374b93fbe4f90099810}
+      \strng{fullhash}{58cbb1e7f933ec6e77438a0c3f8cba5f}
+      \strng{bibnamehash}{58cbb1e7f933ec6e77438a0c3f8cba5f}
+      \strng{authorbibnamehash}{58cbb1e7f933ec6e77438a0c3f8cba5f}
+      \strng{authornamehash}{2487b8aed9ad0374b93fbe4f90099810}
+      \strng{authorfullhash}{58cbb1e7f933ec6e77438a0c3f8cba5f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical {P}ractice \& {E}pidemiology in {M}ental {H}ealth: CP \& EMH}
+      \field{note}{\url{https://doi.org/10.2174/1745017901208010110}}
+      \field{title}{Women {A}nd {H}ysteria {I}n {T}he {H}istory {O}f {M}ental {H}ealth}
+      \field{volume}{8}
+      \field{year}{2012}
+      \field{pages}{110\bibrangedash 119}
+      \range{pages}{10}
+    \endentry
+    \entry{teive2022thomas}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c1e7ccd99535819d5003e0bf787d63ad}{%
+           family={Teive},
+           familyi={T\bibinitperiod},
+           given={Hélio\bibnamedelimb Afonso\bibnamedelima Ghizoni},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8f0b37d804aeed4a8bcdacf9c80acd36}{%
+           family={Coutinho},
+           familyi={C\bibinitperiod},
+           given={Léo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c004feb3dae5a740b912d5e754b954f9}{%
+           family={Camargo},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelimb Henrique\bibnamedelima Ferreira},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=05457f6456063dbd59c210f88dd5f85c}{%
+           family={Munhoz},
+           familyi={M\bibinitperiod},
+           given={Renato\bibnamedelima Puppi},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0322eedeedeaa0156a502ed2f4ae66fc}{%
+           family={Walusinski},
+           familyi={W\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciELO Brasil}%
+      }
+      \strng{namehash}{9e0bee844caecd750e00c9a0a456b59f}
+      \strng{fullhash}{bedb34e62e97419b5b517f188e43d500}
+      \strng{bibnamehash}{bedb34e62e97419b5b517f188e43d500}
+      \strng{authorbibnamehash}{bedb34e62e97419b5b517f188e43d500}
+      \strng{authornamehash}{9e0bee844caecd750e00c9a0a456b59f}
+      \strng{authorfullhash}{bedb34e62e97419b5b517f188e43d500}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arquivos de Neuro-Psiquiatria}
+      \field{note}{\url{https://doi.org/10.1055/s-0042-1755278}}
+      \field{title}{Thomas {W}illis' legacy on the 400\textsuperscript{th} anniversary of his birth}
+      \field{volume}{80}
+      \field{year}{2022}
+      \field{pages}{759\bibrangedash 762}
+      \range{pages}{4}
+    \endentry
+    \entry{walusinski}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0322eedeedeaa0156a502ed2f4ae66fc}{%
+           family={Walusinski},
+           familyi={W\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0322eedeedeaa0156a502ed2f4ae66fc}
+      \strng{fullhash}{0322eedeedeaa0156a502ed2f4ae66fc}
+      \strng{bibnamehash}{0322eedeedeaa0156a502ed2f4ae66fc}
+      \strng{authorbibnamehash}{0322eedeedeaa0156a502ed2f4ae66fc}
+      \strng{authornamehash}{0322eedeedeaa0156a502ed2f4ae66fc}
+      \strng{authorfullhash}{0322eedeedeaa0156a502ed2f4ae66fc}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://ishn.org/}}
+      \field{note}{Consulté le \today}
+      \field{title}{Jean-Martin Charcot’s Birth Bicentennia}
+      \field{year}{2025}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
+

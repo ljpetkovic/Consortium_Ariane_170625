@@ -1,4 +1,16 @@
 \babel@toc {french}{}\relax 
-\beamer@sectionintoc {1}{Contributions principales de Charcot}{2}{0}{1}
-\beamer@sectionintoc {2}{Approches comparées}{4}{0}{2}
-\beamer@sectionintoc {3}{Conclusion}{10}{0}{3}
+\beamer@sectionintoc {1}{Projet Charcot}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Présentation générale du sujet}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Contexte et importance de l'étude}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Objectifs de la recherche}{8}{0}{1}
+\beamer@sectionintoc {2}{Problématique et hypothèses}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Question de recherche}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Hypothèses formulées}{13}{0}{2}
+\beamer@sectionintoc {3}{Extraction de la terminologie}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Méthodes de collecte de données}{16}{0}{3}
+\beamer@subsectionintoc {3}{2}{\textit {Design} de la recherche}{19}{0}{3}
+\beamer@subsectionintoc {3}{3}{Outils et techniques utilisées}{23}{0}{3}
+\beamer@sectionintoc {4}{Résultats}{27}{0}{4}
+\beamer@subsectionintoc {4}{1}{Présentation des résultats principaux}{28}{0}{4}
+\beamer@subsectionintoc {4}{2}{Analyse et interprétation des résultats}{35}{0}{4}
+\beamer@sectionintoc {5}{Conclusion et perspectives}{44}{0}{5}
